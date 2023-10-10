@@ -1,16 +1,36 @@
-### Hi there 👋
+# -Shadow-
 
-<!--
-**DarkShadow47/DarkShadow47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, World! 👋
 
-Here are some ideas to get you started:
+I'm Shadow, a passionate Programmer . Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **About Me:**
+- 🎓 I'm an engineer.
+- 💼 Currently at a learning adventure.
+- 🚀 I'm passionate about AI and Robotic.
+- 💡 I love to explore new technologies and develop exciting projects.
+
+🛠️ **Tech Stack:**
+- 💻 C;C++;Java;Python
+- 🌐 Html;CSS
+- 📱 Android
+- 🛢️ sql;sqlite3
+  
+
+🚀 **Projects:**
+- 🔗 Imlemented a maze Ai in a smallrobot
+- 🔗 Made many game on unity 
+- 🔗 Made many ChatBot in different Field
+
+
+
+📚 **Open Source Contributions:**
+- 🤝 I'm an active contributor to open-source projects
+
+
+
+👀 **Visitors Count:**
+![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch. Let's collaborate and make the coding world a better place! 🚀
