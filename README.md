@@ -37,4 +37,4 @@ Thanks for visiting my profile! Feel free to explore my repositories and get in 
 
 
 ![snake gif]
-https://github.com/DarkShadow47/DarkShadow47/blob/output/github-contribution-grid-snake.gif
+(https://github.com/DarkShadow47/DarkShadow47/blob/output/github-contribution-grid-snake.gif)
