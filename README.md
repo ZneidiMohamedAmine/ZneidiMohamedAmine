@@ -36,4 +36,4 @@ I'm Shadow, a passionate Programmer . Welcome to my GitHub profile!
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch. Let's collaborate and make the coding world a better place! 🚀
 
 
-![Snake animation]
+![Snake animation](https://github.com/DarkShadow47/Snake/blob/output/github-contribution-grid-snake.svg) 
